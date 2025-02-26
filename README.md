@@ -11,6 +11,6 @@ A simple **Sentiment Analysis** application built with **React, Tailwind CSS, an
 ## ⚡ **Tech Stack**  
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express  
-- **ML Model:** `@xenova/transformers`  
+- **ML Model:** `@xenova/transformers` 
 
 
